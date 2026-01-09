@@ -97,7 +97,7 @@ Follow these instructions to set up and run the project locally.
     python manage.py runserver
     ```
 
-9.  **Open the app:** Navigate to `http://127.0.0.1:8000` in your web browser.
+9.  **Open the app:** Navigate to `http://127.0.0.1:8000/` in your web browser.
 
 ## 📖 Usage
 
@@ -108,6 +108,7 @@ Follow these instructions to set up and run the project locally.
 5.  **Use AI Assistant**:
       * To get help with the code in the editor, type a question like "Explain this code" or "Find the bug" into the AI chat input and press Enter or click "Send".
       * To generate new code, start your prompt with "Write...", "Create...", or "Generate...". The AI will ignore the editor content for these requests.
+
 
 
 
